@@ -1,0 +1,507 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="------|Latino|------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/------|Latino|------.png" group-title="Latino",------|Latino|------
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/2428
+#EXTINF:-1 tvg-id="" tvg-name="LA001:A&E LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA001A&ELA.png" group-title="Latino",LA001:A&E LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58056
+#EXTINF:-1 tvg-id="" tvg-name="LA002:AMC LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA002AMCLA.png" group-title="Latino",LA002:AMC LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58055
+#EXTINF:-1 tvg-id="" tvg-name="LA003:Animal Planet LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA003AnimalPlanetLA.png" group-title="Latino",LA003:Animal Planet LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58054
+#EXTINF:-1 tvg-id="" tvg-name="LA004:AXN LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA004AXNLA.png" group-title="Latino",LA004:AXN LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58053
+#EXTINF:-1 tvg-id="" tvg-name="LA005:UFC Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA005UFCNetwork.png" group-title="Latino",LA005:UFC Network
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58052
+#EXTINF:-1 tvg-id="" tvg-name="LA006:Az Click" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA006AzClick.png" group-title="Latino",LA006:Az Click
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58051
+#EXTINF:-1 tvg-id="" tvg-name="LA007:Azteca 13" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA007Azteca13.png" group-title="Latino",LA007:Azteca 13
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58050
+#EXTINF:-1 tvg-id="" tvg-name="LA008:Azteca 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA008Azteca7.png" group-title="Latino",LA008:Azteca 7
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58049
+#EXTINF:-1 tvg-id="" tvg-name="LA009:Azteca Cinema" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA009AztecaCinema.png" group-title="Latino",LA009:Azteca Cinema
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58048
+#EXTINF:-1 tvg-id="" tvg-name="LA010:Azteca Mundo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA010AztecaMundo.png" group-title="Latino",LA010:Azteca Mundo
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58047
+#EXTINF:-1 tvg-id="" tvg-name="LA011:Azteca Noticias" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA011AztecaNoticias.png" group-title="Latino",LA011:Azteca Noticias
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58046
+#EXTINF:-1 tvg-id="" tvg-name="LA012:Bandamax" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA012Bandamax.png" group-title="Latino",LA012:Bandamax
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58045
+#EXTINF:-1 tvg-id="" tvg-name="LA013:Boomerang" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA013Boomerang.png" group-title="Latino",LA013:Boomerang
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58044
+#EXTINF:-1 tvg-id="" tvg-name="LA014:Canal 11" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA014Canal11.png" group-title="Latino",LA014:Canal 11
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58043
+#EXTINF:-1 tvg-id="" tvg-name="LA015:Canal 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA015Canal5.png" group-title="Latino",LA015:Canal 5
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58042
+#EXTINF:-1 tvg-id="" tvg-name="LA016:Canal De Las Estrellas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA016CanalDeLasEstrellas.png" group-title="Latino",LA016:Canal De Las Estrellas
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58041
+#EXTINF:-1 tvg-id="" tvg-name="LA017:Caracol" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA017Caracol.png" group-title="Latino",LA017:Caracol
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58040
+#EXTINF:-1 tvg-id="" tvg-name="LA018:Carton Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA018CartonNetwork.png" group-title="Latino",LA018:Carton Network
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58039
+#EXTINF:-1 tvg-id="" tvg-name="LA019:CDF Premuim" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA019CDFPremuim.png" group-title="Latino",LA019:CDF Premuim
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58038
+#EXTINF:-1 tvg-id="" tvg-name="LA020:Cine Canal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA020CineCanal.png" group-title="Latino",LA020:Cine Canal
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58037
+#EXTINF:-1 tvg-id="" tvg-name="LA021:Cinemax East" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA021CineLatino.png" group-title="Latino",LA021:Cinemax East
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58036
+#EXTINF:-1 tvg-id="" tvg-name="LA022:Cine Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA022CineMax.png" group-title="Latino",LA022:Cine Max
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58035
+#EXTINF:-1 tvg-id="" tvg-name="LA023:Claro Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA023ClaroSports.png" group-title="Latino",LA023:Claro Sports
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58034
+#EXTINF:-1 tvg-id="" tvg-name="LA024:CNN en Espagnol" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA024CNNenEspagnol.png" group-title="Latino",LA024:CNN en Espagnol
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58033
+#EXTINF:-1 tvg-id="" tvg-name="LA025:Comedy Central" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA025ComedyCentral.png" group-title="Latino",LA025:Comedy Central
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58032
+#EXTINF:-1 tvg-id="" tvg-name="LA026:De Pelicula" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA026DePelicula.png" group-title="Latino",LA026:De Pelicula
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58031
+#EXTINF:-1 tvg-id="" tvg-name="LA027:Discovery Home Health LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA027DiscoveryHomeHealthLA.png" group-title="Latino",LA027:Discovery Home Health LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58030
+#EXTINF:-1 tvg-id="" tvg-name="LA028:Discovery LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA028DiscoveryLA.png" group-title="Latino",LA028:Discovery LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58029
+#EXTINF:-1 tvg-id="" tvg-name="LA029:Discovery Civilization" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA029DiscoveryCivilization.png" group-title="Latino",LA029:Discovery Civilization
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58028
+#EXTINF:-1 tvg-id="" tvg-name="LA030:Discovery ID LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA030DiscoveryIDLA.png" group-title="Latino",LA030:Discovery ID LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58027
+#EXTINF:-1 tvg-id="" tvg-name="LA031:Discovery Kids" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA031DiscoveryKids.png" group-title="Latino",LA031:Discovery Kids
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58026
+#EXTINF:-1 tvg-id="" tvg-name="LA032:Discovery Science LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA032DiscoveryScienceLA.png" group-title="Latino",LA032:Discovery Science LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58025
+#EXTINF:-1 tvg-id="" tvg-name="LA033:Discovery Teather" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA033DiscoveryTeather.png" group-title="Latino",LA033:Discovery Teather
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58024
+#EXTINF:-1 tvg-id="" tvg-name="LA034:Discovery TLC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA034DiscoveryTLC.png" group-title="Latino",LA034:Discovery TLC
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58023
+#EXTINF:-1 tvg-id="" tvg-name="LA035:Discovery Turbo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA035DiscoveryTurbo.png" group-title="Latino",LA035:Discovery Turbo
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58022
+#EXTINF:-1 tvg-id="" tvg-name="LA036:Universal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA036Universal.png" group-title="Latino",LA036:Universal
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58021
+#EXTINF:-1 tvg-id="" tvg-name="LA037:Disney LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA037DisneyLA.png" group-title="Latino",LA037:Disney LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58020
+#EXTINF:-1 tvg-id="" tvg-name="LA038:Disney Junior LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA038DisneyJuniorLA.png" group-title="Latino",LA038:Disney Junior LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58019
+#EXTINF:-1 tvg-id="" tvg-name="LA039:Disney XD LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA039DisneyXDLA.png" group-title="Latino",LA039:Disney XD LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58018
+#EXTINF:-1 tvg-id="" tvg-name="LA040:Distrito Comedia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA040DistritoComedia.png" group-title="Latino",LA040:Distrito Comedia
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58017
+#EXTINF:-1 tvg-id="" tvg-name="LA041:Discovery Familia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA041DXTV.png" group-title="Latino",LA041:Discovery Familia
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58016
+#EXTINF:-1 tvg-id="" tvg-name="LA042:E! LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA042E!LA.png" group-title="Latino",LA042:E! LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58015
+#EXTINF:-1 tvg-id="" tvg-name="LA043:Bloomberg LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA043BloombergLA.png" group-title="Latino",LA043:Bloomberg LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58014
+#EXTINF:-1 tvg-id="" tvg-name="LA044:EL Gourmet" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA044ELGourmet.png" group-title="Latino",LA044:EL Gourmet
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58013
+#EXTINF:-1 tvg-id="" tvg-name="LA045:ESPN LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA045ESPNLA.png" group-title="Latino",LA045:ESPN LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58012
+#EXTINF:-1 tvg-id="" tvg-name="LA046:ESPN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA046ESPN2.png" group-title="Latino",LA046:ESPN 2
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58011
+#EXTINF:-1 tvg-id="" tvg-name="LA047:ESPN 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA047ESPN3.png" group-title="Latino",LA047:ESPN 3
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58010
+#EXTINF:-1 tvg-id="" tvg-name="LA048:Film And Arts" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA048FilmAndArts.png" group-title="Latino",LA048:Film And Arts
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58009
+#EXTINF:-1 tvg-id="" tvg-name="LA049:Film Zone" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA049FilmZone.png" group-title="Latino",LA049:Film Zone
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58008
+#EXTINF:-1 tvg-id="" tvg-name="LA051:Fox Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA051FoxSeries.png" group-title="Latino",LA051:Fox Series
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58006
+#EXTINF:-1 tvg-id="" tvg-name="LA052:Fox Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA052FoxAction.png" group-title="Latino",LA052:Fox Action
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58005
+#EXTINF:-1 tvg-id="" tvg-name="LA053:Fox Cinema" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA053FoxCinema.png" group-title="Latino",LA053:Fox Cinema
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58004
+#EXTINF:-1 tvg-id="" tvg-name="LA054:Fox Classic" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA054FoxClassic.png" group-title="Latino",LA054:Fox Classic
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58003
+#EXTINF:-1 tvg-id="" tvg-name="LA055:Fox LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA055FoxLA.png" group-title="Latino",LA055:Fox LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58002
+#EXTINF:-1 tvg-id="" tvg-name="LA056:Fox Life" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA056FoxLife.png" group-title="Latino",LA056:Fox Life
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58001
+#EXTINF:-1 tvg-id="" tvg-name="LA057:Fox Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA057FoxMovies.png" group-title="Latino",LA057:Fox Movies
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58000
+#EXTINF:-1 tvg-id="" tvg-name="LA058:Fox Sports 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA058FoxSports1.png" group-title="Latino",LA058:Fox Sports 1
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57999
+#EXTINF:-1 tvg-id="" tvg-name="LA059:Fox Sports 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA059FoxSports2.png" group-title="Latino",LA059:Fox Sports 2
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57998
+#EXTINF:-1 tvg-id="" tvg-name="LA060:Fox Sports 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA060FoxSports3.png" group-title="Latino",LA060:Fox Sports 3
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57997
+#EXTINF:-1 tvg-id="" tvg-name="LA061:FX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA061FX.png" group-title="Latino",LA061:FX
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57996
+#EXTINF:-1 tvg-id="" tvg-name="LA062:Warner" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA062Warner.png" group-title="Latino",LA062:Warner
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57995
+#EXTINF:-1 tvg-id="" tvg-name="LA063:Glitz" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA063Glitz.png" group-title="Latino",LA063:Glitz
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57994
+#EXTINF:-1 tvg-id="" tvg-name="LA064:Golden Edge" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA064GoldenEdge.png" group-title="Latino",LA064:Golden Edge
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57993
+#EXTINF:-1 tvg-id="" tvg-name="LA065:Golden" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA065Golden.png" group-title="Latino",LA065:Golden
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57992
+#EXTINF:-1 tvg-id="" tvg-name="LA066:H2 LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA066H2LA.png" group-title="Latino",LA066:H2 LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57991
+#EXTINF:-1 tvg-id="" tvg-name="LA067:HBO LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA067HBOLA.png" group-title="Latino",LA067:HBO LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57990
+#EXTINF:-1 tvg-id="" tvg-name="LA068:HBO 2 LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA068HBO2LA.png" group-title="Latino",LA068:HBO 2 LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57989
+#EXTINF:-1 tvg-id="" tvg-name="LA069:HBO Family LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA069HBOFamilyLA.png" group-title="Latino",LA069:HBO Family LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57988
+#EXTINF:-1 tvg-id="" tvg-name="LA070:HBO Signature LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA070HBOSignatureLA.png" group-title="Latino",LA070:HBO Signature LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57987
+#EXTINF:-1 tvg-id="" tvg-name="LA071:History LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA071HistoryLA.png" group-title="Latino",LA071:History LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57986
+#EXTINF:-1 tvg-id="" tvg-name="LA072:HOLA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA072HOLATV.png" group-title="Latino",LA072:HOLA TV
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57985
+#EXTINF:-1 tvg-id="" tvg-name="LA073:I-SAT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA073I-SAT.png" group-title="Latino",LA073:I-SAT
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57984
+#EXTINF:-1 tvg-id="" tvg-name="LA074:ID LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA074IDLA.png" group-title="Latino",LA074:ID LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57983
+#EXTINF:-1 tvg-id="" tvg-name="LA075:Lifetime  LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA075LifetimeLA.png" group-title="Latino",LA075:Lifetime  LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57982
+#EXTINF:-1 tvg-id="" tvg-name="LA076:TDN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA076MIMusica.png" group-title="Latino",LA076:TDN
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57981
+#EXTINF:-1 tvg-id="" tvg-name="LA077:Win Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA077WinSports.png" group-title="Latino",LA077:Win Sports
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57980
+#EXTINF:-1 tvg-id="" tvg-name="LA078:MTV LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA078MTVLA.png" group-title="Latino",LA078:MTV LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57979
+#EXTINF:-1 tvg-id="" tvg-name="LA079:MTV Hits LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA079MTVHitsLA.png" group-title="Latino",LA079:MTV Hits LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57978
+#EXTINF:-1 tvg-id="" tvg-name="LA080:FXM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA080FXM.png" group-title="Latino",LA080:FXM
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57977
+#EXTINF:-1 tvg-id="" tvg-name="LA081:NAT GEO Wild LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA081NATGEOWildLA.png" group-title="Latino",LA081:NAT GEO Wild LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57976
+#EXTINF:-1 tvg-id="" tvg-name="LA082:NAT GEO LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA082NATGEOLA.png" group-title="Latino",LA082:NAT GEO LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57975
+#EXTINF:-1 tvg-id="" tvg-name="LA083:Nick JR LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA083NickJRLA.png" group-title="Latino",LA083:Nick JR LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57974
+#EXTINF:-1 tvg-id="" tvg-name="LA084:Nicktoons LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA084NicktoonsLA.png" group-title="Latino",LA084:Nicktoons LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57973
+#EXTINF:-1 tvg-id="" tvg-name="LA085:Nick LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA085NickLA.png" group-title="Latino",LA085:Nick LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57972
+#EXTINF:-1 tvg-id="" tvg-name="LA086:SONY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA086SONY.png" group-title="Latino",LA086:SONY
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57971
+#EXTINF:-1 tvg-id="" tvg-name="LA087:Space LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA087SpaceLA.png" group-title="Latino",LA087:Space LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57970
+#EXTINF:-1 tvg-id="" tvg-name="LA088:Studio Universal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA088StudioUniversal.png" group-title="Latino",LA088:Studio Universal
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57969
+#EXTINF:-1 tvg-id="" tvg-name="LA089:SYFY LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA089SYFYLA.png" group-title="Latino",LA089:SYFY LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57968
+#EXTINF:-1 tvg-id="" tvg-name="LA090:TBS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA090TBS.png" group-title="Latino",LA090:TBS
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57967
+#EXTINF:-1 tvg-id="" tvg-name="LA091:TCM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA091TCM.png" group-title="Latino",LA091:TCM
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57966
+#EXTINF:-1 tvg-id="" tvg-name="LA092:Unicable" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA092Unicable.png" group-title="Latino",LA092:Unicable
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57965
+#EXTINF:-1 tvg-id="" tvg-name="LA093:Tele Hit" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA093TeleHit.png" group-title="Latino",LA093:Tele Hit
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57964
+#EXTINF:-1 tvg-id="" tvg-name="LA096:Canal Disney" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA096CanalDisney.png" group-title="Latino",LA096:Canal Disney
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57961
+#EXTINF:-1 tvg-id="" tvg-name="LA097:Tele Visa" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA097TeleVisa.png" group-title="Latino",LA097:Tele Visa
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57960
+#EXTINF:-1 tvg-id="" tvg-name="LA098:Paramount" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA098Paramount.png" group-title="Latino",LA098:Paramount
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57959
+#EXTINF:-1 tvg-id="" tvg-name="LA099:TLC LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA099TLCLA.png" group-title="Latino",LA099:TLC LA
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57958
+#EXTINF:-1 tvg-id="" tvg-name="LA100:TLnovelas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA100TLnovelas.png" group-title="Latino",LA100:TLnovelas
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57957
+#EXTINF:-1 tvg-id="" tvg-name="LA101:TNT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA101TNT.png" group-title="Latino",LA101:TNT
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57956
+#EXTINF:-1 tvg-id="" tvg-name="LA102:TNT Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA102TNTSeries.png" group-title="Latino",LA102:TNT Series
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57955
+#EXTINF:-1 tvg-id="" tvg-name="LA103:Tooncast" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA103Tooncast.png" group-title="Latino",LA103:Tooncast
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57954
+#EXTINF:-1 tvg-id="" tvg-name="LA104:UNIMAS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA104UNIMAS.png" group-title="Latino",LA104:UNIMAS
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57953
+#EXTINF:-1 tvg-id="" tvg-name="LA105:Tru TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA105TruTV.png" group-title="Latino",LA105:Tru TV
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57952
+#EXTINF:-1 tvg-id="" tvg-name="LA106:NU9VE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA106Marti.png" group-title="Latino",LA106:NU9VE
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57951
+#EXTINF:-1 tvg-id="" tvg-name="LA107:TVE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA107TVE.png" group-title="Latino",LA107:TVE
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/57950
+#EXTINF:-1 tvg-id="" tvg-name="LA109:ACTION MAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA113ACTIONMAX.png" group-title="Latino",LA109:ACTION MAX
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/59188
+#EXTINF:-1 tvg-id="" tvg-name="LA110:El Salvador" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA118ElSalvador.png" group-title="Latino",LA110:El Salvador
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/59183
+#EXTINF:-1 tvg-id="" tvg-name="LA111:Nuestra Tele" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA126DWAmerica.png" group-title="Latino",LA111:Nuestra Tele
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/59175
+#EXTINF:-1 tvg-id="" tvg-name="LA112:AZ MAS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA135AZMAS.png" group-title="Latino",LA112:AZ MAS
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/59166
+#EXTINF:-1 tvg-id="" tvg-name="LA113:CANAL ONCE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA165CANALONCE.png" group-title="Latino",LA113:CANAL ONCE
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/59136
+#EXTINF:-1 tvg-id="" tvg-name="LA114:CANAL DE LAS ESTRELLAS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA168CANALDELASESTRELLASHD.png" group-title="Latino",LA114:CANAL DE LAS ESTRELLAS HD
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/59133
+#EXTINF:-1 tvg-id="" tvg-name="LA115:Cinemoi" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA180Cinemoi.png" group-title="Latino",LA115:Cinemoi
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/59121
+#EXTINF:-1 tvg-id="" tvg-name="LA116:Cinema 30 PPV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA199Cinema30PPV.png" group-title="Latino",LA116:Cinema 30 PPV
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/59102
+#EXTINF:-1 tvg-id="" tvg-name="LA117:Cinemax Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA234CINEMAPLUS.png" group-title="Latino",LA117:Cinemax Action
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/59067
+#EXTINF:-1 tvg-id="" tvg-name="LA118:Cinemax" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA235CinemaxActionHD.png" group-title="Latino",LA118:Cinemax
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/59066
+#EXTINF:-1 tvg-id="" tvg-name="LA119:CNN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA245CNN.png" group-title="Latino",LA119:CNN
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/59056
+#EXTINF:-1 tvg-id="" tvg-name="LA120:CNN ESPANOL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA247CNNESPANOL.png" group-title="Latino",LA120:CNN ESPANOL
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/59054
+#EXTINF:-1 tvg-id="" tvg-name="LA121:Cubavision (Cuba)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA260Cubavision(Cuba).png" group-title="Latino",LA121:Cubavision (Cuba)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/59041
+#EXTINF:-1 tvg-id="" tvg-name="LA122:Cinemax West" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA265DHE.png" group-title="Latino",LA122:Cinemax West
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/59036
+#EXTINF:-1 tvg-id="" tvg-name="LA123:Directv Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA267DirectvSports.png" group-title="Latino",LA123:Directv Sports
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/59034
+#EXTINF:-1 tvg-id="" tvg-name="LA124:Directv Sports 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA269DirectvSports2.png" group-title="Latino",LA124:Directv Sports 2
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/59032
+#EXTINF:-1 tvg-id="" tvg-name="LA125:Nick 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA280Nick2FHD.png" group-title="Latino",LA125:Nick 2 FHD
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/59021
+#EXTINF:-1 tvg-id="" tvg-name="LA126:EL TRECE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA299ELTRECEHD.png" group-title="Latino",LA126:EL TRECE HD
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/59002
+#EXTINF:-1 tvg-id="" tvg-name="LA129:HCH SD HON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA310HCHSDHON.png" group-title="Latino",LA129:HCH SD HON
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58991
+#EXTINF:-1 tvg-id="" tvg-name="LA130:FORO TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA318PFC.png" group-title="Latino",LA130:FORO TV
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58983
+#EXTINF:-1 tvg-id="" tvg-name="LA131:FOX NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA323FOXNEWS.png" group-title="Latino",LA131:FOX NEWS
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58978
+#EXTINF:-1 tvg-id="" tvg-name="LA132:Fox Premium Action HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA324FoxPremiumActionHD.png" group-title="Latino",LA132:Fox Premium Action HD
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58977
+#EXTINF:-1 tvg-id="" tvg-name="LA133:HBO Plus FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA354HBOPlusFHD.png" group-title="Latino",LA133:HBO Plus FHD
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58947
+#EXTINF:-1 tvg-id="" tvg-name="LA134:HBO Plus West HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA355HBOPlusWestHD.png" group-title="Latino",LA134:HBO Plus West HD
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58946
+#EXTINF:-1 tvg-id="" tvg-name="LA135:HBO East HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA356HBOEastHD.png" group-title="Latino",LA135:HBO East HD
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58945
+#EXTINF:-1 tvg-id="" tvg-name="LA136:RCN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA376TELEMUSICA.png" group-title="Latino",LA136:RCN
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58925
+#EXTINF:-1 tvg-id="" tvg-name="LA137:TV Globo Internacional" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA390TVGloboInternacional.png" group-title="Latino",LA137:TV Globo Internacional
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58911
+#EXTINF:-1 tvg-id="" tvg-name="LA138:MAX UP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA404MAXUP.png" group-title="Latino",LA138:MAX UP
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58897
+#EXTINF:-1 tvg-id="" tvg-name="LA139:Milenio TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA410MilenioTVHD.png" group-title="Latino",LA139:Milenio TV HD
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58891
+#EXTINF:-1 tvg-id="" tvg-name="LA140:MoviePlex FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA416MoviePlexFHD.png" group-title="Latino",LA140:MoviePlex FHD
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58885
+#EXTINF:-1 tvg-id="" tvg-name="LA141:Multimedios HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA423MultimediosHD.png" group-title="Latino",LA141:Multimedios HD
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58878
+#EXTINF:-1 tvg-id="" tvg-name="LA142:MULTIMEDIOS Plus" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA424MusicTopHD.png" group-title="Latino",LA142:MULTIMEDIOS Plus
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58877
+#EXTINF:-1 tvg-id="" tvg-name="LA143:TELEUNIVERSO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA426TELEUNIVERSO.png" group-title="Latino",LA143:TELEUNIVERSO
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58875
+#EXTINF:-1 tvg-id="" tvg-name="LA144:TV Quisqueya" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA431TVQuisqueya.png" group-title="Latino",LA144:TV Quisqueya
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58870
+#EXTINF:-1 tvg-id="" tvg-name="LA145:Tigo Sports 2 (Bolivia)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA468BoliviaTV.png" group-title="Latino",LA145:Tigo Sports 2 (Bolivia)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58833
+#EXTINF:-1 tvg-id="" tvg-name="LA146:Todo Noticias" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA473TodoNoticias.png" group-title="Latino",LA146:Todo Noticias
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58828
+#EXTINF:-1 tvg-id="" tvg-name="LA147:RCN Novelas HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA489RCNNovelasHD.png" group-title="Latino",LA147:RCN Novelas HD
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58812
+#EXTINF:-1 tvg-id="" tvg-name="LA149:Showtime East FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA521ShowtimeEastFHD.png" group-title="Latino",LA149:Showtime East FHD
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58780
+#EXTINF:-1 tvg-id="" tvg-name="LA150:SHOWTIME FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA522SHOWTIMEFHD.png" group-title="Latino",LA150:SHOWTIME FHD
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58779
+#EXTINF:-1 tvg-id="" tvg-name="LA151:Starz Cinema FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA531StarzCinemaFHD.png" group-title="Latino",LA151:Starz Cinema FHD
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58770
+#EXTINF:-1 tvg-id="" tvg-name="LA152:Starz Comedy FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA532StarzComedyFHD.png" group-title="Latino",LA152:Starz Comedy FHD
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58769
+#EXTINF:-1 tvg-id="" tvg-name="LA153:Starz Encore Action FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA534StarzEncoreActionFHD.png" group-title="Latino",LA153:Starz Encore Action FHD
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58767
+#EXTINF:-1 tvg-id="" tvg-name="LA154:Starz Encore Black FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA535StarzEncoreBlackFHD.png" group-title="Latino",LA154:Starz Encore Black FHD
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58766
+#EXTINF:-1 tvg-id="" tvg-name="LA155:Starz Encore Classic FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA536StarzEncoreClassicFHD.png" group-title="Latino",LA155:Starz Encore Classic FHD
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58765
+#EXTINF:-1 tvg-id="" tvg-name="LA156:Starz Encore Family FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA537StarzEncoreFamilyFHD.png" group-title="Latino",LA156:Starz Encore Family FHD
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58764
+#EXTINF:-1 tvg-id="" tvg-name="LA157:Starz Encore FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA538StarzEncoreFHD.png" group-title="Latino",LA157:Starz Encore FHD
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58763
+#EXTINF:-1 tvg-id="" tvg-name="LA158:Starz Encore Suspense FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA539StarzEncoreSuspenseFHD.png" group-title="Latino",LA158:Starz Encore Suspense FHD
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58762
+#EXTINF:-1 tvg-id="" tvg-name="LA159:Starz Encore Western FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA540StarzEncoreWesternFHD.png" group-title="Latino",LA159:Starz Encore Western FHD
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58761
+#EXTINF:-1 tvg-id="" tvg-name="LA160:Starz Family HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA541StarzFamilyHD.png" group-title="Latino",LA160:Starz Family HD
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58760
+#EXTINF:-1 tvg-id="" tvg-name="LA161:Starz FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA542StarzFHD.png" group-title="Latino",LA161:Starz FHD
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58759
+#EXTINF:-1 tvg-id="" tvg-name="LA162:Starz Kids & Family FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA543StarzKids&FamilyFHD.png" group-title="Latino",LA162:Starz Kids & Family FHD
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58758
+#EXTINF:-1 tvg-id="" tvg-name="LA163:Starz West FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA544StarzWestFHD.png" group-title="Latino",LA163:Starz West FHD
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58757
+#EXTINF:-1 tvg-id="" tvg-name="LA164:TELEFE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA560TELEFEHD.png" group-title="Latino",LA164:TELEFE HD
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58741
+#EXTINF:-1 tvg-id="" tvg-name="LA166:Galavision" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA600Galavision.png" group-title="Latino",LA166:Galavision
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58701
+#EXTINF:-1 tvg-id="" tvg-name="LA167:TUDN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA606TUDN.png" group-title="Latino",LA167:TUDN
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58695
+#EXTINF:-1 tvg-id="" tvg-name="LA169:UniMas West" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA633UniMasWest.png" group-title="Latino",LA169:UniMas West
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58668
+#EXTINF:-1 tvg-id="" tvg-name="LA170:TIGO SPORT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA651TIGOSPORT.png" group-title="Latino",LA170:TIGO SPORT
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58650
+#EXTINF:-1 tvg-id="" tvg-name="LA171:Cinemax MXL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA652ULTRAFilm.png" group-title="Latino",LA171:Cinemax MXL
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/58649
+#EXTINF:-1 tvg-id="" tvg-name="LA174:Canal Uno (Ecuador)" tvg-logo="" group-title="Latino",LA174:Canal Uno (Ecuador)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65934
+#EXTINF:-1 tvg-id="" tvg-name="LA176:Ecuador TV HD (Ecuador)" tvg-logo="" group-title="Latino",LA176:Ecuador TV HD (Ecuador)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65935
+#EXTINF:-1 tvg-id="" tvg-name="LA177:Ecuavisa HD (Ecuador)" tvg-logo="" group-title="Latino",LA177:Ecuavisa HD (Ecuador)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65936
+#EXTINF:-1 tvg-id="" tvg-name="LA178:Gamavision (Ecuador)" tvg-logo="" group-title="Latino",LA178:Gamavision (Ecuador)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65937
+#EXTINF:-1 tvg-id="" tvg-name="LA179:Gol TV (Ecuador)" tvg-logo="" group-title="Latino",LA179:Gol TV (Ecuador)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65938
+#EXTINF:-1 tvg-id="" tvg-name="LA180:Oromar (Ecuador)" tvg-logo="" group-title="Latino",LA180:Oromar (Ecuador)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65939
+#EXTINF:-1 tvg-id="" tvg-name="LA181:Rts (Ecuador)" tvg-logo="" group-title="Latino",LA181:Rts (Ecuador)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65940
+#EXTINF:-1 tvg-id="" tvg-name="LA182:Tc Television (Ecuador)" tvg-logo="" group-title="Latino",LA182:Tc Television (Ecuador)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65941
+#EXTINF:-1 tvg-id="" tvg-name="LA183:Teleamazonas (Ecuador)" tvg-logo="" group-title="Latino",LA183:Teleamazonas (Ecuador)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65942
+#EXTINF:-1 tvg-id="" tvg-name="LA184:Televicentro (Ecuador)" tvg-logo="" group-title="Latino",LA184:Televicentro (Ecuador)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65943
+#EXTINF:-1 tvg-id="" tvg-name="LA185:DIRECTV SPORTS (Ecuador)" tvg-logo="" group-title="Latino",LA185:DIRECTV SPORTS (Ecuador)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65944
+#EXTINF:-1 tvg-id="" tvg-name="------|Bolivia|------" tvg-logo="" group-title="Latino",------|Bolivia|------
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/73874
+#EXTINF:-1 tvg-id="" tvg-name="LA186:ATB (Bolivia)" tvg-logo="" group-title="Latino",LA186:ATB (Bolivia)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65945
+#EXTINF:-1 tvg-id="" tvg-name="LA187:Gigavision (Bolivia)" tvg-logo="" group-title="Latino",LA187:Gigavision (Bolivia)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65946
+#EXTINF:-1 tvg-id="" tvg-name="LA188:RTP BOLIVIA (Bolivia)" tvg-logo="" group-title="Latino",LA188:RTP BOLIVIA (Bolivia)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65947
+#EXTINF:-1 tvg-id="" tvg-name="LA189:Unitel (Bolivia)" tvg-logo="" group-title="Latino",LA189:Unitel (Bolivia)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65948
+#EXTINF:-1 tvg-id="" tvg-name="LA190:Bolivia TV (Bolivia)" tvg-logo="" group-title="Latino",LA190:Bolivia TV (Bolivia)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65949
+#EXTINF:-1 tvg-id="" tvg-name="LA191:Bolivision (Bolivia)" tvg-logo="" group-title="Latino",LA191:Bolivision (Bolivia)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65950
+#EXTINF:-1 tvg-id="" tvg-name="LA192:RTP (Bolivia)" tvg-logo="" group-title="Latino",LA192:RTP (Bolivia)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65951
+#EXTINF:-1 tvg-id="" tvg-name="LA193:Rec Online (Bolivia)" tvg-logo="" group-title="Latino",LA193:Rec Online (Bolivia)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65952
+#EXTINF:-1 tvg-id="" tvg-name="LA194:Tigo Sports 1 (Bolivia)" tvg-logo="" group-title="Latino",LA194:Tigo Sports 1 (Bolivia)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65953
+#EXTINF:-1 tvg-id="" tvg-name="LA195:Tigo Sports 2 (Bolivia)" tvg-logo="" group-title="Latino",LA195:Tigo Sports 2 (Bolivia)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65954
+#EXTINF:-1 tvg-id="" tvg-name="LA196:Tigo Sports 3 (Bolivia)" tvg-logo="" group-title="Latino",LA196:Tigo Sports 3 (Bolivia)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65955
+#EXTINF:-1 tvg-id="" tvg-name="------|Paraguay|------" tvg-logo="" group-title="Latino",------|Paraguay|------
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/74417
+#EXTINF:-1 tvg-id="" tvg-name="LA197:C9N (Paraguay)" tvg-logo="" group-title="Latino",LA197:C9N (Paraguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65956
+#EXTINF:-1 tvg-id="" tvg-name="LA198:Farra Play (Paraguay)" tvg-logo="" group-title="Latino",LA198:Farra Play (Paraguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65957
+#EXTINF:-1 tvg-id="" tvg-name="LA199:GEN TV (Paraguay)" tvg-logo="" group-title="Latino",LA199:GEN TV (Paraguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65958
+#EXTINF:-1 tvg-id="" tvg-name="LA200:La Tele (Paraguay)" tvg-logo="" group-title="Latino",LA200:La Tele (Paraguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65959
+#EXTINF:-1 tvg-id="" tvg-name="LA201:Noticias (Paraguay)" tvg-logo="" group-title="Latino",LA201:Noticias (Paraguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65960
+#EXTINF:-1 tvg-id="" tvg-name="LA202:PARAGUAY TV (Paraguay)" tvg-logo="" group-title="Latino",LA202:PARAGUAY TV (Paraguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65961
+#EXTINF:-1 tvg-id="" tvg-name="LA203:RPC (Paraguay)" tvg-logo="" group-title="Latino",LA203:RPC (Paraguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65962
+#EXTINF:-1 tvg-id="" tvg-name="LA204:TVES (Paraguay)" tvg-logo="" group-title="Latino",LA204:TVES (Paraguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65963
+#EXTINF:-1 tvg-id="" tvg-name="LA205:UNICANAL (Paraguay)" tvg-logo="" group-title="Latino",LA205:UNICANAL (Paraguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65964
+#EXTINF:-1 tvg-id="" tvg-name="LA206:SNT (Paraguay)" tvg-logo="" group-title="Latino",LA206:SNT (Paraguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65965
+#EXTINF:-1 tvg-id="" tvg-name="LA207:Telefuturo (Paraguay)" tvg-logo="" group-title="Latino",LA207:Telefuturo (Paraguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/65966
+#EXTINF:-1 tvg-id="" tvg-name="------|Uruguay|------" tvg-logo="" group-title="Latino",------|Uruguay|------
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/50202
+#EXTINF:-1 tvg-id="" tvg-name="LA244: Telesur (Uruguay)" tvg-logo="" group-title="Latino",LA244: Telesur (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/60995
+#EXTINF:-1 tvg-id="" tvg-name="LA245:RT en Espanol (Uruguay)" tvg-logo="" group-title="Latino",LA245:RT en Espanol (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/60996
+#EXTINF:-1 tvg-id="" tvg-name="LA246:France 24 (Uruguay)" tvg-logo="" group-title="Latino",LA246:France 24 (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/60997
+#EXTINF:-1 tvg-id="" tvg-name="LA247:MIEM (Uruguay)" tvg-logo="" group-title="Latino",LA247:MIEM (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/60998
+#EXTINF:-1 tvg-id="" tvg-name="LA248:Centro de Telemedicina de la Fundacion (Uruguay)" tvg-logo="" group-title="Latino",LA248:Centro de Telemedicina de la Fundacion (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/60999
+#EXTINF:-1 tvg-id="" tvg-name="LA249:aduLIVE (Uruguay)" tvg-logo="" group-title="Latino",LA249:aduLIVE (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61000
+#EXTINF:-1 tvg-id="" tvg-name="LA250:Pantalla IMPO (Uruguay)" tvg-logo="" group-title="Latino",LA250:Pantalla IMPO (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61001
+#EXTINF:-1 tvg-id="" tvg-name="LA251:Anpi TV San Ramón (Uruguay)" tvg-logo="" group-title="Latino",LA251:Anpi TV San Ramón (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61002
+#EXTINF:-1 tvg-id="" tvg-name="LA252:TELE R (Uruguay)" tvg-logo="" group-title="Latino",LA252:TELE R (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61003
+#EXTINF:-1 tvg-id="" tvg-name="LA253:Uruguay Presidencia (Uruguay)" tvg-logo="" group-title="Latino",LA253:Uruguay Presidencia (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61004
+#EXTINF:-1 tvg-id="" tvg-name="LA254:Cámara de Senadores (Uruguay)" tvg-logo="" group-title="Latino",LA254:Cámara de Senadores (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61005
+#EXTINF:-1 tvg-id="" tvg-name="LA255:Cámara de Representantes (Uruguay)" tvg-logo="" group-title="Latino",LA255:Cámara de Representantes (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61006
+#EXTINF:-1 tvg-id="" tvg-name="LA256:Florida Televisora Color HD (Uruguay)" tvg-logo="" group-title="Latino",LA256:Florida Televisora Color HD (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61007
+#EXTINF:-1 tvg-id="" tvg-name="LA257:Charrúa TV (Uruguay)" tvg-logo="" group-title="Latino",LA257:Charrúa TV (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61008
+#EXTINF:-1 tvg-id="" tvg-name="LA258:RIO URUGUAY TV (Uruguay)" tvg-logo="" group-title="Latino",LA258:RIO URUGUAY TV (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61009
+#EXTINF:-1 tvg-id="" tvg-name="LA259:Veoflix (Uruguay)" tvg-logo="" group-title="Latino",LA259:Veoflix (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61010
+#EXTINF:-1 tvg-id="" tvg-name="LA260:1000XHora TV (Uruguay)" tvg-logo="" group-title="Latino",LA260:1000XHora TV (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61011
+#EXTINF:-1 tvg-id="" tvg-name="LA261:RDTV 24HS. (Uruguay)" tvg-logo="" group-title="Latino",LA261:RDTV 24HS. (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61012
+#EXTINF:-1 tvg-id="" tvg-name="LA262:Uruguay Natural TV (Uruguay)" tvg-logo="" group-title="Latino",LA262:Uruguay Natural TV (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61013
+#EXTINF:-1 tvg-id="" tvg-name="LA263:San José Ahora (Uruguay)" tvg-logo="" group-title="Latino",LA263:San José Ahora (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61014
+#EXTINF:-1 tvg-id="" tvg-name="LA264:El Canal de la Región (Uruguay)" tvg-logo="" group-title="Latino",LA264:El Canal de la Región (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61015
+#EXTINF:-1 tvg-id="" tvg-name="LA265:Latina TV Paysandú (Uruguay)" tvg-logo="" group-title="Latino",LA265:Latina TV Paysandú (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61016
+#EXTINF:-1 tvg-id="" tvg-name="LA266:Cardinal TV (Uruguay)" tvg-logo="" group-title="Latino",LA266:Cardinal TV (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61017
+#EXTINF:-1 tvg-id="" tvg-name="LA267:TVL Pando (Uruguay)" tvg-logo="" group-title="Latino",LA267:TVL Pando (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61018
+#EXTINF:-1 tvg-id="" tvg-name="LA268:Televisión Nacional (Uruguay)" tvg-logo="" group-title="Latino",LA268:Televisión Nacional (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61019
+#EXTINF:-1 tvg-id="" tvg-name="LA269:A + V (Uruguay)" tvg-logo="" group-title="Latino",LA269:A + V (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61020
+#EXTINF:-1 tvg-id="" tvg-name="LA270:Plazacanal Treinta y Tres (Uruguay)" tvg-logo="" group-title="Latino",LA270:Plazacanal Treinta y Tres (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61021
+#EXTINF:-1 tvg-id="" tvg-name="LA271:TVCIUDAD (Uruguay)" tvg-logo="" group-title="Latino",LA271:TVCIUDAD (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61022
+#EXTINF:-1 tvg-id="" tvg-name="LA272:Maroñas Entertainment (Uruguay)" tvg-logo="" group-title="Latino",LA272:Maroñas Entertainment (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61023
+#EXTINF:-1 tvg-id="" tvg-name="LA273:Canal U (Uruguay)" tvg-logo="" group-title="Latino",LA273:Canal U (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61024
+#EXTINF:-1 tvg-id="" tvg-name="LA274:Canal M (Uruguay)" tvg-logo="" group-title="Latino",LA274:Canal M (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61025
+#EXTINF:-1 tvg-id="" tvg-name="LA275:Canal 12 MELO (Uruguay)" tvg-logo="" group-title="Latino",LA275:Canal 12 MELO (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61026
+#EXTINF:-1 tvg-id="" tvg-name="LA276:Canal 11 Treinta y Tres (Uruguay)" tvg-logo="" group-title="Latino",LA276:Canal 11 Treinta y Tres (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61027
+#EXTINF:-1 tvg-id="" tvg-name="LA277:Canal 11 Las Piedras (Uruguay)" tvg-logo="" group-title="Latino",LA277:Canal 11 Las Piedras (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61028
+#EXTINF:-1 tvg-id="" tvg-name="LA278:Canal 10 CV (Uruguay)" tvg-logo="" group-title="Latino",LA278:Canal 10 CV (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61029
+#EXTINF:-1 tvg-id="" tvg-name="LA279:Canal 9 Telerocha (Uruguay)" tvg-logo="" group-title="Latino",LA279:Canal 9 Telerocha (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61030
+#EXTINF:-1 tvg-id="" tvg-name="LA280:Canal 8 Artigas (Uruguay)" tvg-logo="" group-title="Latino",LA280:Canal 8 Artigas (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61031
+#EXTINF:-1 tvg-id="" tvg-name="LA281:Canal 8 Rivera (Uruguay)" tvg-logo="" group-title="Latino",LA281:Canal 8 Rivera (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61032
+#EXTINF:-1 tvg-id="" tvg-name="LA282:Canal 8 Durazno (Uruguay)" tvg-logo="" group-title="Latino",LA282:Canal 8 Durazno (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61033
+#EXTINF:-1 tvg-id="" tvg-name="LA283:Canal 8 Salto (Uruguay)" tvg-logo="" group-title="Latino",LA283:Canal 8 Salto (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61034
+#EXTINF:-1 tvg-id="" tvg-name="LA284:Canal 8 Rocha (Uruguay)" tvg-logo="" group-title="Latino",LA284:Canal 8 Rocha (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61035
+#EXTINF:-1 tvg-id="" tvg-name="LA285:Canal 7 Punta (Uruguay)" tvg-logo="" group-title="Latino",LA285:Canal 7 Punta (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61036
+#EXTINF:-1 tvg-id="" tvg-name="LA286:Canal 6 Durazno (Uruguay)" tvg-logo="" group-title="Latino",LA286:Canal 6 Durazno (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61037
+#EXTINF:-1 tvg-id="" tvg-name="LA287:Canal 4 Tacuarembó (Uruguay)" tvg-logo="" group-title="Latino",LA287:Canal 4 Tacuarembó (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61038
+#EXTINF:-1 tvg-id="" tvg-name="LA288:Canal 4 Juan Lacaze (Uruguay)" tvg-logo="" group-title="Latino",LA288:Canal 4 Juan Lacaze (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61039
+#EXTINF:-1 tvg-id="" tvg-name="LA289:Canal 4 Salto (Uruguay)" tvg-logo="" group-title="Latino",LA289:Canal 4 Salto (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61040
+#EXTINF:-1 tvg-id="" tvg-name="LA290:Canal 4 Chuy (Uruguay)" tvg-logo="" group-title="Latino",LA290:Canal 4 Chuy (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61041
+#EXTINF:-1 tvg-id="" tvg-name="LA291:Canal 3 Vivo (Uruguay)" tvg-logo="" group-title="Latino",LA291:Canal 3 Vivo (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61042
+#EXTINF:-1 tvg-id="" tvg-name="LA292:Canal 2 Visión Canaria (Uruguay)" tvg-logo="" group-title="Latino",LA292:Canal 2 Visión Canaria (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61043
+#EXTINF:-1 tvg-id="" tvg-name="LA293:Canal 2 HD San Carlos (Uruguay)" tvg-logo="" group-title="Latino",LA293:Canal 2 HD San Carlos (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61044
+#EXTINF:-1 tvg-id="" tvg-name="LA294:Canal 2 Lascano (Uruguay)" tvg-logo="" group-title="Latino",LA294:Canal 2 Lascano (Uruguay)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/61045
+#EXTINF:-1 tvg-id="telemundo.austin.tx.us" tvg-name="US809:TELEMUNDO 31 (ORLANDO)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US809TELEMUNDO31.png" group-title="USA General",US809:TELEMUNDO 31 (ORLANDO)
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/59233
+#EXTINF:-1 tvg-id="" tvg-name="US898:Telemundo New York" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US898TelemundoNewYork.png" group-title="USA General",US898:Telemundo New York
+http://mu01cz.okcomputer.club:8880/PTEST0505/123456789/60194
