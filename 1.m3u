@@ -1,16 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="LA: Galavision La HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Latino",LA: Galavision La HD
-http://4k.nicemay.xyz:80/LLW20210507/8378902297/222445
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: Galavision Austin HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Latino",LA: Galavision Austin HD
-http://4k.nicemay.xyz:80/LLW20210507/8378902297/222439
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: Galavision Atlanta HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Latino",LA: Galavision Atlanta HD
-http://4k.nicemay.xyz:80/LLW20210507/8378902297/222438
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: Galavision Albuquerque Santa Fe HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Latino",LA: Galavision Albuquerque Santa Fe HD
-http://4k.nicemay.xyz:80/LLW20210507/8378902297/222437
 
 #EXTINF:-1 tvg-id="" tvg-name="LA: GALAVISION" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Latino",LA: GALAVISION
 http://4k.nicemay.xyz:80/LLW20210507/8378902297/222436
