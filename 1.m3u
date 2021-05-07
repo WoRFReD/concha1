@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN Nuestra Tele" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="BUENO",CO: RCN Nuestra Tele
+http://4k.nicemay.xyz:80/LLW20210507/8378902297/236619
+
 #EXTINF:-1 tvg-id="" tvg-name="CO: RCN NOVELAS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="BUENO",CO: RCN NOVELAS
 http://4k.nicemay.xyz:80/LLW20210507/8378902297/236618
 
