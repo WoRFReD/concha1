@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-name="LA: GALAVISION" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Latino",LA: GALAVISION
+#EXTINF:-1 tvg-id="" tvg-name="LA: GALAVISION" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="BUENO",LA: GALAVISION
 http://4k.nicemay.xyz:80/LLW20210507/8378902297/222436
 
 #EXTINF:-1 tvg-id="" tvg-name="CO: RCN Nuestra Tele" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="BUENO",CO: RCN Nuestra Tele
@@ -22,8 +22,14 @@ http://4k.nicemay.xyz:80/LLW20210507/8378902297/236620
 #EXTINF:-1 tvg-id="" tvg-name="MX: Telenovelas FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="BUENO",MX: Telenovelas FHD
 http://4k.nicemay.xyz:80/LLW20210507/8378902297/223141
 
-#EXTINF:-1 tvg-id="" tvg-name="LA: Canal De Las Estrellas HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Latino",LA: Canal De Las Estrellas HD
+#EXTINF:-1 tvg-id="" tvg-name="LA: Canal De Las Estrellas HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="BUENO",LA: Canal De Las Estrellas HD
 http://4k.nicemay.xyz:80/LLW20210507/8378902297/222204
 
-#EXTINF:-1 tvg-id="" tvg-name="LA: CANAL LAS ESTRELLAS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Latino",LA: CANAL LAS ESTRELLAS
+#EXTINF:-1 tvg-id="" tvg-name="LA: CANAL LAS ESTRELLAS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="BUENO",LA: CANAL LAS ESTRELLAS
 http://4k.nicemay.xyz:80/LLW20210507/8378902297/222205
+
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal de las Estrellas FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="BUENO",MX: Canal de las Estrellas FHD
+http://4k.nicemay.xyz:80/LLW20210507/8378902297/237447
+
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal las Estrellas HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="BUENO",MX: Canal las Estrellas HD
+http://4k.nicemay.xyz:80/LLW20210507/8378902297/237450
