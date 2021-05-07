@@ -22,17 +22,8 @@ http://4k.nicemay.xyz:80/LLW20210507/8378902297/236620
 #EXTINF:-1 tvg-id="" tvg-name="MX: Telenovelas FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="BUENO",MX: Telenovelas FHD
 http://4k.nicemay.xyz:80/LLW20210507/8378902297/223141
 
-#EXTINF:-1 tvg-id="" tvg-name="LA: GARAGE TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Latino",LA: GARAGE TV
-http://4k.nicemay.xyz:80/LLW20210507/8378902297/222457
+#EXTINF:-1 tvg-id="" tvg-name="LA: Canal De Las Estrellas HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Latino",LA: Canal De Las Estrellas HD
+http://4k.nicemay.xyz:80/LLW20210507/8378902297/222204
 
-#EXTINF:-1 tvg-id="" tvg-name="LA100:TLnovelas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA100TLnovelas.png" group-title="Latino",LA100:TLnovelas
-http://mudy02.cularu.com:8880/Test489/123456789/57957
-
-#EXTINF:-1 tvg-id="" tvg-name="LA166:Galavision" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA600Galavision.png" group-title="Latino",LA166:Galavision
-http://mudy02.cularu.com:8880/Test489/123456789/58701
-
-#EXTINF:-1 tvg-id="" tvg-name="LA114:CANAL DE LAS ESTRELLAS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA168CANALDELASESTRELLASHD.png" group-title="Latino",LA114:CANAL DE LAS ESTRELLAS HD
-http://mudy02.cularu.com:8880/Test489/123456789/59133
-
-#EXTINF:-1 tvg-id="" tvg-name="CL006:Caracol Internacional" tvg-logo="" group-title="Chile",CL006:Caracol Internacional
-http://mudy02.cularu.com:8880/Test489/123456789/65829
+#EXTINF:-1 tvg-id="" tvg-name="LA: CANAL LAS ESTRELLAS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Latino",LA: CANAL LAS ESTRELLAS
+http://4k.nicemay.xyz:80/LLW20210507/8378902297/222205
