@@ -318,3 +318,31 @@ http://4k.nicemay.xyz:80/MXBOCPFSOO/2880684255/229753
 http://4k.nicemay.xyz:80/MXBOCPFSOO/2880684255/229754
 #EXTINF:-1 tvg-id="MV1 ASTRA HD 1.sp" tvg-name="VIP - DAZN 3 HD" tvg-logo="http://vipstreamtv.ddns.net:8000/images/6k0NqANA7nBQvv03UfogAlf7kICYZE0N.png" group-title="Deportes",VIP - DAZN 3 HD
 http://4k.nicemay.xyz:80/MXBOCPFSOO/2880684255/229755
+
+
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="ES: ANTENA 3 FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/A3" group-title="TDT",ES: ANTENA 3 FHD
+http://4k.nicemay.xyz:80/MXBOCPFSOO/2880684255/165031
+#EXTINF:-1 tvg-id="TELECINCO FHD" tvg-name="ES: TELECINCO FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/T5" group-title="TDT",ES: TELECINCO FHD
+http://4k.nicemay.xyz:80/MXBOCPFSOO/2880684255/165033
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="ES: LA 1 FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TVE" group-title="TDT",ES: LA 1 FHD
+http://4k.nicemay.xyz:80/MXBOCPFSOO/2880684255/165029
+#EXTINF:-1 tvg-id="lasxta.es" tvg-name="ES: LA SEXTA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/SEXTA" group-title="TDT",ES: LA SEXTA FHD
+http://4k.nicemay.xyz:80/MXBOCPFSOO/2880684255/165034
+#EXTINF:-1 tvg-id="mega.es" tvg-name="ES: MEGA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MEGA" group-title="TDT",ES: MEGA FHD
+http://4k.nicemay.xyz:80/MXBOCPFSOO/2880684255/165079
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="ES: CUATRO FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/C4" group-title="TDT",ES: CUATRO FHD
+http://4k.nicemay.xyz:80/MXBOCPFSOO/2880684255/165032
+#EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="ES: DECASA TV FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DECASA" group-title="TDT",ES: DECASA TV FHD
+http://4k.nicemay.xyz:80/MXBOCPFSOO/2880684255/165076
+#EXTINF:-1 tvg-id="Discovery MAX" tvg-name="ES: DMAX FHD" tvg-logo="https://i2.wp.com/www.audiovisual451.com/wp-content/uploads/dmax-h.jpg?w=300&ssl=1" group-title="TDT",ES: DMAX FHD
+http://4k.nicemay.xyz:80/MXBOCPFSOO/2880684255/165238
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="ES: DISCOVERY CHANNELS FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DCR" group-title="TDT",ES: DISCOVERY CHANNELS FHD
+http://4k.nicemay.xyz:80/MXBOCPFSOO/2880684255/165073
+#EXTINF:-1 tvg-id="DIVINITY" tvg-name="ES: DIVINITY FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DIVINI" group-title="TDT",ES: DIVINITY FHD
+http://4k.nicemay.xyz:80/MXBOCPFSOO/2880684255/165077
+#EXTINF:-1 tvg-id="ENERGY" tvg-name="ES: ENERGY FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ENERGY" group-title="TDT",ES: ENERGY FHD
+http://4k.nicemay.xyz:80/MXBOCPFSOO/2880684255/165053
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="ES: FDF FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/FDFIC" group-title="TDT",ES: FDF FHD
+http://4k.nicemay.xyz:80/MXBOCPFSOO/2880684255/165050
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="ES: ATRESERIES FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ATRESS" group-title="TDT",ES: ATRESERIES FHD
+http://4k.nicemay.xyz:80/MXBOCPFSOO/2880684255/165052
