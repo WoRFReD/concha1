@@ -322,6 +322,8 @@ http://4k.nicemay.xyz:80/MXBOCPFSOO/2880684255/229755
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-name="ES: ANTENA 3 FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/A3" group-title="TDT",ES: ANTENA 3 FHD
 http://4k.nicemay.xyz:80/MXBOCPFSOO/2880684255/165031
+#EXTINF:-1 tvg-id="" tvg-name="LA: Antena 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Latino",LA: Antena 3 HD
+http://4k.nicemay.xyz:80/MXBOCPFSOO/2880684255/222162
 #EXTINF:-1 tvg-id="TELECINCO FHD" tvg-name="ES: TELECINCO FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/T5" group-title="TDT",ES: TELECINCO FHD
 http://4k.nicemay.xyz:80/MXBOCPFSOO/2880684255/165033
 #EXTINF:-1 tvg-id="La1.TV" tvg-name="ES: LA 1 FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TVE" group-title="TDT",ES: LA 1 FHD
