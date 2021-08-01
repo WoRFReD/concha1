@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="" tvg-name="ES: TLnovelas" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Novelas",ES: TLnovelas
 http://nicefly.xyz:80/MXBOCPFSOO/2880684255/245968
 
+#EXTINF:-1 tvg-id="" tvg-name="ES: RCN Novelas" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Novelas",ES: RCN Novelas
+http://nicefly.xyz:80/MXBOCPFSOO/2880684255/244598
+
 
 
 #EXTINF:-1 tvg-id="M. Cine Español" tvg-name="ES: MOVISTAR CINE ESPAÑOL SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DCESP" group-title="MOVISTAR+",ES: MOVISTAR CINE ESPAÑOL SD
