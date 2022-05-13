@@ -367,3 +367,31 @@ http://070c14b843a7293e70c1607e95687e83.dramostimes.ablatv.me/live/c6.php?z=997&
 http://070c14b843a7293e70c1607e95687e83.dramostimes.ablatv.me/live/c6.php?z=997&ui=31956&s=CT4WVJ99B3&id=26621&h=2e200aaacf25f0708a5d5b045ff8aa16346fc95e&n=1652277572&i=79.116.2.249
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2 4K" tvg-logo="" group-title="LIGA",DAZN 2 4K
 http://070c14b843a7293e70c1607e95687e83.dramostimes.ablatv.me/live/c6.php?z=997&ui=31956&s=CT4WVJ99B3&id=26622&h=2e200aaacf25f0708a5d5b045ff8aa16346fc95e&n=1652277572&i=79.116.2.249
+#EXTINF:-1 tvg-id="" tvg-name="LA 1 4K" tvg-logo="" group-title="TDT",LA 1 4K
+http://070c14b843a7293e70c1607e95687e83.dramostimes.ablatv.me/live/c6.php?z=997&ui=31956&s=CT4WVJ99B3&id=26150&h=2e200aaacf25f0708a5d5b045ff8aa16346fc95e&n=1652277572&i=79.116.2.249
+#EXTINF:-1 tvg-id="" tvg-name="LA 2 4K" tvg-logo="" group-title="TDT",LA 2 4K
+http://070c14b843a7293e70c1607e95687e83.dramostimes.ablatv.me/live/c6.php?z=997&ui=31956&s=CT4WVJ99B3&id=26151&h=2e200aaacf25f0708a5d5b045ff8aa16346fc95e&n=1652277572&i=79.116.2.249
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 4K" tvg-logo="" group-title="TDT",ANTENA 3 4K
+http://070c14b843a7293e70c1607e95687e83.dramostimes.ablatv.me/live/c6.php?z=997&ui=31956&s=CT4WVJ99B3&id=26152&h=2e200aaacf25f0708a5d5b045ff8aa16346fc95e&n=1652277572&i=79.116.2.249
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO 4K" tvg-logo="" group-title="TDT",CUATRO 4K
+http://070c14b843a7293e70c1607e95687e83.dramostimes.ablatv.me/live/c6.php?z=997&ui=31956&s=CT4WVJ99B3&id=26153&h=2e200aaacf25f0708a5d5b045ff8aa16346fc95e&n=1652277572&i=79.116.2.249
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO 4K" tvg-logo="" group-title="TDT",TELECINCO 4K
+http://070c14b843a7293e70c1607e95687e83.dramostimes.ablatv.me/live/c6.php?z=997&ui=31956&s=CT4WVJ99B3&id=26154&h=2e200aaacf25f0708a5d5b045ff8aa16346fc95e&n=1652277572&i=79.116.2.249
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA 4K" tvg-logo="" group-title="TDT",LA SEXTA 4K
+http://070c14b843a7293e70c1607e95687e83.dramostimes.ablatv.me/live/c6.php?z=997&ui=31956&s=CT4WVJ99B3&id=26155&h=2e200aaacf25f0708a5d5b045ff8aa16346fc95e&n=1652277572&i=79.116.2.249
+#EXTINF:-1 tvg-id="" tvg-name="Neox FULL HD" tvg-logo="" group-title="TDT",Neox FULL HD
+http://070c14b843a7293e70c1607e95687e83.dramostimes.ablatv.me/live/c6.php?z=997&ui=31956&s=CT4WVJ99B3&id=3851&h=2e200aaacf25f0708a5d5b045ff8aa16346fc95e&n=1652277572&i=79.116.2.249
+#EXTINF:-1 tvg-id="" tvg-name="NOVA FULL HD" tvg-logo="" group-title="TDT",NOVA FULL HD
+http://070c14b843a7293e70c1607e95687e83.dramostimes.ablatv.me/live/c6.php?z=997&ui=31956&s=CT4WVJ99B3&id=3854&h=2e200aaacf25f0708a5d5b045ff8aa16346fc95e&n=1652277572&i=79.116.2.249
+#EXTINF:-1 tvg-id="" tvg-name="BLAZE FULL HD" tvg-logo="" group-title="TDT",BLAZE FULL HD
+http://070c14b843a7293e70c1607e95687e83.dramostimes.ablatv.me/live/c6.php?z=997&ui=31956&s=CT4WVJ99B3&id=3825&h=2e200aaacf25f0708a5d5b045ff8aa16346fc95e&n=1652277572&i=79.116.2.249
+#EXTINF:-1 tvg-id="" tvg-name="BE MAD FULL HD" tvg-logo="" group-title="TDT",BE MAD FULL HD
+http://070c14b843a7293e70c1607e95687e83.dramostimes.ablatv.me/live/c6.php?z=997&ui=31956&s=CT4WVJ99B3&id=3824&h=2e200aaacf25f0708a5d5b045ff8aa16346fc95e&n=1652277572&i=79.116.2.249
+#EXTINF:-1 tvg-id="" tvg-name="FDF FULL HD" tvg-logo="" group-title="TDT",FDF FULL HD
+http://070c14b843a7293e70c1607e95687e83.dramostimes.ablatv.me/live/c6.php?z=997&ui=31956&s=CT4WVJ99B3&id=3841&h=2e200aaacf25f0708a5d5b045ff8aa16346fc95e&n=1652277572&i=79.116.2.249
+#EXTINF:-1 tvg-id="" tvg-name="Energy FULL HD" tvg-logo="" group-title="TDT",Energy FULL HD
+http://070c14b843a7293e70c1607e95687e83.dramostimes.ablatv.me/live/c6.php?z=997&ui=31956&s=CT4WVJ99B3&id=3840&h=2e200aaacf25f0708a5d5b045ff8aa16346fc95e&n=1652277572&i=79.116.2.249
+#EXTINF:-1 tvg-id="" tvg-name="Divinity FULL HD" tvg-logo="" group-title="TDT",Divinity FULL HD
+http://070c14b843a7293e70c1607e95687e83.dramostimes.ablatv.me/live/c6.php?z=997&ui=31956&s=CT4WVJ99B3&id=3839&h=2e200aaacf25f0708a5d5b045ff8aa16346fc95e&n=1652277572&i=79.116.2.249
+#EXTINF:-1 tvg-id="" tvg-name="Discovery FULL HD" tvg-logo="" group-title="TDT",Discovery FULL HD
+http://070c14b843a7293e70c1607e95687e83.dramostimes.ablatv.me/live/c6.php?z=997&ui=31956&s=CT4WVJ99B3&id=3836&h=2e200aaacf25f0708a5d5b045ff8aa16346fc95e&n=1652277572&i=79.116.2.249
